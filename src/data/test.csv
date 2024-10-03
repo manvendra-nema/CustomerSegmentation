@@ -1,0 +1,2 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+"INV001","A123","Widget",10,"2023-09-18",2.50,"C001","United Kingdom"

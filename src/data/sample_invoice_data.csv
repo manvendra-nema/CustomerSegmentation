@@ -1,0 +1,7 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+1001,A123,Item A,10,2024-09-18,20.5,101,USA
+1002,B456,Item B,15,2024-09-18,30.0,102,Canada
+1003,C789,Item C,8,2024-09-18,25.5,101,USA
+1004,A123,Item A,12,2024-09-18,21.0,103,UK
+1005,B456,Item B,18,2024-09-18,32.0,102,Canada
+1006,C789,Item C,9,2024-09-18,26.0,103,UK

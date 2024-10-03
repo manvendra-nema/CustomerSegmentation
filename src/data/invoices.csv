@@ -1,0 +1,6 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+1001,A123,Red Widget,5,2023-09-18,2.50,C001,USA
+1002,B456,Blue Widget,3,2023-09-19,3.00,C002,UK
+1003,C789,Green Widget,10,2023-09-20,1.75,C003,Canada
+1004,D012,Yellow Widget,7,2023-09-21,2.25,C004,Australia
+1005,E345,Purple Widget,2,2023-09-22,5.00,C005,Germany
